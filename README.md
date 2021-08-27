@@ -1,3 +1,4 @@
+
 <h1>Aplicativo Loteria</h1>
   
 App criado no curso de Swift do Eric Brito na Udemy.
@@ -11,13 +12,7 @@ Assuntos abordados:
 * Estruturas Condicionais Switch
 * Constraints
 
-  
-<div align="left">
-      <h2>Screenshots<h2>
-      <h4> - LaunchScreen <h4>  
-     <img src="https://user-images.githubusercontent.com/88335633/130982994-9fc996cb-f625-493f-9ab6-1bceee1c126f.png" width="200px" height="350px" </img>
-        <h4> - Mega-sena <h4>  
-     <img src="https://user-images.githubusercontent.com/88335633/130983128-3ae3c6f2-256e-48cc-83ff-9f6ab43d704d.png" width="200px" height="350px"</img> 
-          <h4> - Quina <h4>  
-     <img src="https://user-images.githubusercontent.com/88335633/130983341-1edd2b09-be6f-413e-8056-5d82ed8c937b.png" width="200px" height="350px"</img> 
-</div>
+<h2>Aplicativo Loteria<h2>
+
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88335633/131167940-e22a2a17-dd19-448e-bba1-c89c035148c9.gif)
+
