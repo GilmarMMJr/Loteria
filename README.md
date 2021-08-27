@@ -12,7 +12,5 @@ Assuntos abordados:
 * Estruturas Condicionais Switch
 * Constraints
 
-<h2>Aplicativo Loteria<h2>
-
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88335633/131167940-e22a2a17-dd19-448e-bba1-c89c035148c9.gif)
 
